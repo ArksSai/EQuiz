@@ -1,0 +1,26 @@
+{
+  "name": "linechat",
+  "version": "1.0.0",
+  "description": "EQuiz",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/still-shelf-82661.git"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "jquery": "^3.5.1",
+    "linebot": "^1.6.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.8.1",
+    "eslint-config-google": "^0.14.0"
+  }
+}
